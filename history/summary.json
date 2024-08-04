@@ -22,19 +22,19 @@
     "url": "https://lq.nr1a.inc",
     "icon": "https://icons.duckduckgo.com/ip3/lq.nr1a.inc.ico",
     "slug": "dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 364,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 406,
+    "timeDay": 408,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-08-04": 0
+      "2024-08-04": 12
     }
   },
   {
