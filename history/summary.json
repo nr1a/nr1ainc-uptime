@@ -40,19 +40,19 @@
     "url": "https://omaka.nr1a.inc",
     "icon": "https://icons.duckduckgo.com/ip3/omaka.nr1a.inc.ico",
     "slug": "omaka",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 547,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-08-04": 0
+      "2024-08-04": 8
     }
   },
   {
