@@ -4,18 +4,20 @@
     "url": "https://lo.nr1a.inc",
     "icon": "https://icons.duckduckgo.com/ip3/lo.nr1a.inc.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 555,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
-    "dailyMinutesDown": {}
+    "time": 478,
+    "timeDay": 506,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "omaka",
