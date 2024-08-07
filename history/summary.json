@@ -22,18 +22,20 @@
     "url": "https://lq.nr1a.inc",
     "icon": "https://icons.duckduckgo.com/ip3/lq.nr1a.inc.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 413,
-    "timeWeek": 447,
-    "timeMonth": 447,
-    "timeYear": 447,
-    "dailyMinutesDown": {}
+    "time": 425,
+    "timeDay": 312,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "omaka",
