@@ -4,19 +4,19 @@
     "url": "https://lo.nr1a.inc",
     "icon": "https://icons.duckduckgo.com/ip3/lo.nr1a.inc.ico",
     "slug": "misskey",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 522,
-    "timeDay": 597,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1718,
+    "timeDay": 2975,
+    "timeWeek": 1718,
+    "timeMonth": 1718,
+    "timeYear": 1718,
     "dailyMinutesDown": {
-      "2024-08-07": 11
+      "2024-08-07": 0
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://vault.nr1a.inc",
     "icon": "https://icons.duckduckgo.com/ip3/vault.nr1a.inc.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 494,
-    "timeWeek": 550,
-    "timeMonth": 550,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "time": 548,
+    "timeDay": 508,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "Blog",
