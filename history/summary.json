@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 454,
-    "timeWeek": 460,
-    "timeMonth": 460,
-    "timeYear": 460,
+    "time": 488,
+    "timeDay": 555,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "DEV",
-    "url": "https://lq.nr1a.inc",
-    "icon": "https://icons.duckduckgo.com/ip3/lq.nr1a.inc.ico",
-    "slug": "dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 312,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
-    "dailyMinutesDown": {
-      "2024-08-07": 0
-    }
   },
   {
     "name": "omaka",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 428,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "time": 546,
+    "timeDay": 586,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 394,
-    "timeWeek": 542,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "time": 550,
+    "timeDay": 494,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 163,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 143,
+    "timeDay": 126,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   }
 ]
